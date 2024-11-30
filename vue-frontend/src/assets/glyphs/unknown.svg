@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g id="unknown" transform="translate(-272 -360)">
+    <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(272 360)" fill="#fff" stroke="#707070" stroke-width="6">
+      <rect width="120" height="120" rx="12" stroke="none"/>
+      <rect x="3" y="3" width="114" height="114" rx="9" fill="none"/>
+    </g>
+    <text id="_" data-name="?" transform="translate(313 364)" fill="#707070" font-size="85" font-family="SegoeUI, Segoe UI"><tspan x="-19.05" y="92">?</tspan></text>
+  </g>
+</svg>

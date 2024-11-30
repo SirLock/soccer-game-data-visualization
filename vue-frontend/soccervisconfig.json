@@ -1,0 +1,12 @@
+{
+  "soccerFieldDimensions": {
+    "width_m": 105,
+    "height_m": 68
+  },
+  "pixel_scaling_factor_soccer_field": 8,
+  "canvas_border_buffer_px": 25,
+  "canvasDimensions": {
+    "width_px": 890,
+    "height_px": 594
+  }
+}

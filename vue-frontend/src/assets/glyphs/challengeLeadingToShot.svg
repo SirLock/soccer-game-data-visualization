@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g id="challengeLeadingToShot" transform="translate(-192 -248)">
+    <g id="Group_1" data-name="Group 1" transform="translate(104.591 13.19)">
+      <g id="swords" transform="translate(90.409 246.715)">
+        <g id="challenge_yellow" transform="translate(0 25.668) rotate(-20)">
+          <g id="sword" transform="translate(0 0)">
+            <path id="Pfad_10" data-name="Pfad 10" d="M7.615,3.606A3.807,3.807,0,1,1,6.509,1.113,3.857,3.857,0,0,1,7.615,3.606Z" transform="translate(0 67.41)" fill="#e5d352"/>
+            <path id="Pfad_11" data-name="Pfad 11" d="M12.009,0,7.137,4.873l-3.6,3.6L0,12.006a3.8,3.8,0,0,1,2.482,1.107,3.857,3.857,0,0,1,1.105,2.493H3.6l5.342-5.328,3.6-3.6L15.612,3.6,12.013,0Z" transform="translate(4.028 55.409)" fill="#e5d352"/>
+            <path id="Pfad_12" data-name="Pfad 12" d="M6.519,11.916,1.126,6.522A3.816,3.816,0,1,1,7.257,5.467L9.214,7.413l5.393,5.4,1.951,1.945A3.816,3.816,0,1,1,15.5,20.906l-5.391-5.393Z" transform="translate(9.518 43.494)" fill="#e5d352"/>
+            <path id="Pfad_13" data-name="Pfad 13" d="M15.3,35.615,18,32.907l2.7-2.7L49.125,1.795,56.314,0,54.521,7.187,26.1,35.6l-2.7,2.7L20.7,41.01,5.393,56.312,0,50.906Z" transform="translate(18.733 0)" fill="#e5d352"/>
+          </g>
+        </g>
+        <g id="challenge_yellow-2" data-name="challenge_yellow" transform="translate(77.628 96.19) rotate(-160)">
+          <g id="sword-2" data-name="sword" transform="translate(0 0)">
+            <path id="Pfad_10-2" data-name="Pfad 10" d="M7.615,4.032A3.807,3.807,0,1,0,6.509,6.525,3.857,3.857,0,0,0,7.615,4.032Z" fill="#e5d352"/>
+            <path id="Pfad_11-2" data-name="Pfad 11" d="M12.009,15.6,7.137,10.733l-3.6-3.6L0,3.6A3.8,3.8,0,0,0,2.482,2.493,3.857,3.857,0,0,0,3.587,0H3.6L8.947,5.328l3.6,3.6,3.065,3.079-3.6,3.6Z" transform="translate(4.028 4.034)" fill="#e5d352"/>
+            <path id="Pfad_12-2" data-name="Pfad 12" d="M6.519,10.107,1.126,15.5a3.816,3.816,0,1,0,6.131,1.056L9.214,14.61l5.393-5.4,1.951-1.945A3.816,3.816,0,1,0,15.5,1.117L10.112,6.51Z" transform="translate(9.518 9.531)" fill="#e5d352"/>
+            <path id="Pfad_13-2" data-name="Pfad 13" d="M15.3,20.7,18,23.4l2.7,2.7L49.125,54.517l7.189,1.795-1.793-7.187L26.1,20.709l-2.7-2.7L20.7,15.3,5.393,0,0,5.406Z" transform="translate(18.733 18.736)" fill="#e5d352"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="120" height="120" transform="translate(192 248)" fill="none"/>
+    <path id="Polygon_1" data-name="Polygon 1" d="M16,0,32,32H0Z" transform="translate(307 288) rotate(90)" fill="#e5d352"/>
+  </g>
+</svg>
